@@ -1,1 +1,1 @@
-0x00. C - Hello, World Tasks
+More pointers, arrays and strings TASKS
